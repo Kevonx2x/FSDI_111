@@ -80,3 +80,10 @@ touch task_mgr/routes.py
 app/routes.py
 cd task_mgr
 cd C:\Users\turon\OneDrive\Desktop\SDGKU School Projects\task_mrg
+git status
+git init
+ls
+ls -la
+git add -A
+git status
+git commit -m "Created empty files"
